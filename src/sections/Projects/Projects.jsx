@@ -12,12 +12,16 @@ function Projects() {
           <p>My personal portfolio built with React</p>
         </div>
 
+        <br />
+
         <div className={styles.projectContainer}>
           <a href="https://edufd.netlify.app/" target="_blank" rel="noopener noreferrer">
             <h2>EduFD</h2>
             <p>A project I built focused on education-related web-design. Built with only JavaScript, HTML, and CSS.</p>
           </a>
         </div>
+
+        <br />
 
         <div className={styles.projectContainer}>
           <a href="https://carsong.netlify.app/" target="_blank" rel="noopener noreferrer">
