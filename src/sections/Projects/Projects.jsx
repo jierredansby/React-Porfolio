@@ -17,8 +17,9 @@ function Projects() {
         <div className={styles.projectContainer}>
           <a href="https://edufd.netlify.app/" target="_blank" rel="noopener noreferrer">
             <h2>EduFD</h2>
+            </a>
             <p>A project I built focused on education-related web-design. Built with only JavaScript, HTML, and CSS.</p>
-          </a>
+          
         </div>
 
         <br />
@@ -26,8 +27,9 @@ function Projects() {
         <div className={styles.projectContainer}>
           <a href="https://carsong.netlify.app/" target="_blank" rel="noopener noreferrer">
             <h2>CarSong</h2>
+             </a>
             <p>A portfolio project I had built for an old colleague of mine. Built with only JavaScript, HTML, and CSS.</p>
-          </a>
+         
         </div>
 
       </div>
