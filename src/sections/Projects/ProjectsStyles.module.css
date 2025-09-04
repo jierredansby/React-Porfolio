@@ -21,6 +21,10 @@ a {
 h2{
     transition: transform 200ms ease-in-out;
 }
+
+h2:hover{
+    transform: scale(1.05);
+}
 @media (width >= 800px) {
     ._projectsContainer_ktxu3_25 {
         flex-direction: row;
