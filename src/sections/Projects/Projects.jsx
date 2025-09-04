@@ -8,7 +8,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
 
         <div className={styles.projectContainer}>
-          <h2>This Website</h2>
+          <h2>*This Website*</h2>
           <p>My personal portfolio built with React</p>
         </div>
 
@@ -16,7 +16,7 @@ function Projects() {
 
         <div className={styles.projectContainer}>
           <a href="https://edufd.netlify.app/" target="_blank" rel="noopener noreferrer">
-            <h2>EduFD</h2>
+            <h2>EduFord</h2>
             </a>
             <p>A project I built focused on education-related web-design. Built with only JavaScript, HTML, and CSS.</p>
           
@@ -26,13 +26,14 @@ function Projects() {
 
         <div className={styles.projectContainer}>
           <a href="https://carsong.netlify.app/" target="_blank" rel="noopener noreferrer">
-            <h2>CarSong</h2>
+            <h2>Carson Gunter</h2>
              </a>
-            <p>A portfolio project I had built for an old colleague of mine. Built with only JavaScript, HTML, and CSS.</p>
+            <p>A portfolio project I had built for a former colleague of mine. Built with only JavaScript, HTML, and CSS.</p>
          
         </div>
 
       </div>
+      <br />
     </section>
   )
 }
